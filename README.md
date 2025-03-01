@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ecj314
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, specifically machine learning 
-- 💞️ I’m looking to collaborate on anything python
-- 📫 How to reach me ...
+- 🌱 I’m currently learning all things LLM
+- 📫 elliscjones@outlook.com
 
 <!---
 ecj314/ecj314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
